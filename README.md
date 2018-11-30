@@ -2,6 +2,8 @@
 
 Live2Dで拡張性の高いVTuber配信システムを作成するためのプロジェクトです。
 
+![](docs/samples.gif)
+
 ## Environment
 
 - Windows 10 / macOS High Sierra
