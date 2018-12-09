@@ -4,6 +4,8 @@ Live2Dで拡張性の高いVTuber配信システムを作成するためのプ�
 
 ![](docs/samples.gif)
 
+Mac版サンプル実行ファイル: https://github.com/nkjzm/VTuberKit/releases/
+
 ## Environment
 
 - Windows 10 / macOS High Sierra
